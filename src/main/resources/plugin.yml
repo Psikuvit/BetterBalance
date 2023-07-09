@@ -1,0 +1,7 @@
+name: BetterBalance
+version: '${project.version}'
+main: me.psikuvit.betterbalance.BetterBalance
+api-version: '1.13'
+
+commands:
+  bb:
